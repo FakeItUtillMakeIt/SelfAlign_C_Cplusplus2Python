@@ -1,4 +1,4 @@
-# python-C-C-
+# python-C-C++接口
 python调用C/C++接口操作
 ##
 linux下python调用C接口，SWIG版本
